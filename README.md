@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte da disciplina de Infraestrutura de Hard
 
 ## Grupo
 
-Fazemos parte do Grupo 7.
+Fazemos parte do Grupo 5.
 
 ## Tema
 
